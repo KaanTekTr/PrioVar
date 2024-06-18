@@ -1,0 +1,17 @@
+beautifulsoup4==4.12.3
+Flask==2.2.5
+Flask_Cors==3.0.10
+gensim==4.3.0
+neo4j==5.18.0
+networkx==3.1
+numpy
+pandas
+Requests
+langchain
+openai
+langchain_openai
+scikit-learn
+tqdm
+requests
+biopython
+transformers
